@@ -23,3 +23,5 @@ screen - vytváří virtuální terminál, dá se pak přepínat
 -d  -detach
 -r  -reconect
 nehup  - spuštění příkazu nebo skriptu na pozadí, i když se odhlásíte z aktuální relace
+watch  - může se použít k provádění příkazu v pravidelných intervalech
+sudo   - oprávnění
